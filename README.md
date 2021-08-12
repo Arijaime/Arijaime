@@ -3,7 +3,7 @@
 
 ![Alt Text](https://github.com/Arijaime/Arijaime/blob/main/starfall.gif)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arijaime" alt="arijaime" /></a> </p>
+
 
 - 🌱 I’m currently learning **C# , 2d art & sound**
 
