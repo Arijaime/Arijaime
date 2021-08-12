@@ -109,6 +109,17 @@
  <h3 align="left">Others  : </h3>
 
     
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>      <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>            </p>
+   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>      <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   </p>
+
+
+   ### Let's connect  :
+
+
+
+[![Mail: AriJaime](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arij.dev@gmail.com)
+[![Instagram: AriJok. ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arijok._)
+[![Linkedin: Ariel-Jaime](https://img.shields.io/badge/-dianaledist-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariel-jaime)](https://www.linkedin.com/in/ariel-jaime) 
+
+   
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijaime&show_icons=true&locale=en&layout=compact" alt="arijaime" /></p>
