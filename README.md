@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently learning **C# , 2d art & sound**
-
+- 🔭 I’m currently working at [Digital House As a Teacher](https://www.digitalhouse.com/ar)
 - ⚡ Fun fact **I love spicy food and watch movies.**
 
 <h3 align="left">Connect with me:</h3>
